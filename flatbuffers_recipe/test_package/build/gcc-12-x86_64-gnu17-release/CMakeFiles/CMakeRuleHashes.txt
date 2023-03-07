@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+316ec9dce07fcb4054e3b0347f0c5090 CMakeFiles/generate_monster_header
+8018989544e38bb866233d5d6f542028 monster_generated.h

@@ -1,0 +1,5 @@
+/var/home/aramallo/Repos/conan-center-index/recipes/flatbuffers/all/test_package/build/gcc-12-x86_64-gnu17-release/CMakeFiles/test_package.dir
+/var/home/aramallo/Repos/conan-center-index/recipes/flatbuffers/all/test_package/build/gcc-12-x86_64-gnu17-release/CMakeFiles/sample_binary.dir
+/var/home/aramallo/Repos/conan-center-index/recipes/flatbuffers/all/test_package/build/gcc-12-x86_64-gnu17-release/CMakeFiles/generate_monster_header.dir
+/var/home/aramallo/Repos/conan-center-index/recipes/flatbuffers/all/test_package/build/gcc-12-x86_64-gnu17-release/CMakeFiles/edit_cache.dir
+/var/home/aramallo/Repos/conan-center-index/recipes/flatbuffers/all/test_package/build/gcc-12-x86_64-gnu17-release/CMakeFiles/rebuild_cache.dir

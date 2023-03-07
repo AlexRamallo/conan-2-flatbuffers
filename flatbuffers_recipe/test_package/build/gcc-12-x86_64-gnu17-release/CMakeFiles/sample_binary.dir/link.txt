@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -m64 -O3 -DNDEBUG -m64 CMakeFiles/sample_binary.dir/sample_binary.cpp.o -o sample_binary   -L/var/home/aramallo/.conan2/p/flatb6f9c55664b9cd/p/lib  -Wl,-rpath,/var/home/aramallo/.conan2/p/flatb6f9c55664b9cd/p/lib /var/home/aramallo/.conan2/p/flatb6f9c55664b9cd/p/lib/libflatbuffers.a -lm 

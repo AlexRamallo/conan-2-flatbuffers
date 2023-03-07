@@ -1,0 +1,2 @@
+[options]
+flatbuffers/23.1.21:flatc = False
